@@ -6,7 +6,7 @@ Voice Talent Experiment Setup 2
 
 * [About](/voicetalent_exp/about)
 * [markdown](/markdown)
-* [js](/js)
-* [jquery](/jquery)
+* [js](/voicetalent_exp/js)
+* [jquery](/voicetalent_exp/jquery)
 * [json](/voicetalent_exp/json)
 
