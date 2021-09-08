@@ -1,1 +1,0 @@
-This is a speech perception experiment to evaluate the naturalness of speech from voice talents recorded in different setups
