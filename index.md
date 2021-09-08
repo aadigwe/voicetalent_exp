@@ -1,12 +1,12 @@
 # GitHub Page Demo for voice talent setup
 
-Voice Talent Experiment Setup
+Voice Talent Experiment Setup 2
 
 ## Experimenting with GitHub pages
 
-* [About](/about)
+* [About](/voicetalent_exp/about)
 * [markdown](/markdown)
 * [js](/js)
 * [jquery](/jquery)
-* [json](/json)
+* [json](/voicetalent_exp/json)
 
